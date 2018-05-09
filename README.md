@@ -5,3 +5,6 @@ Utilized libraries
 
 Data sets
 1. refine_original.csv
+
+Output files
+1. refine_clean.csv
