@@ -1,4 +1,4 @@
-refine <- read.csv("~/Section-3-Data-Wrangling/refine_original.csv")
+refine <- read.csv("~/Data-Wrangling-excercise-1/refine_original.csv")
 
 #1
 #Separating the 4 different companies
